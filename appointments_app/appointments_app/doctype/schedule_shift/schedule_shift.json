@@ -41,7 +41,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-12-08 16:52:57.273401",
+ "modified": "2024-12-08 19:57:34.371048",
  "modified_by": "Administrator",
  "module": "Appointments App",
  "name": "Schedule Shift",
@@ -60,7 +60,9 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "title"
 }
