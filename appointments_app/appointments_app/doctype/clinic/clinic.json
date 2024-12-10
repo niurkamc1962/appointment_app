@@ -53,8 +53,13 @@
  "has_web_view": 1,
  "index_web_pages_for_search": 1,
  "is_published_field": "is_published",
- "links": [],
- "modified": "2024-12-08 09:42:15.951609",
+ "links": [
+  {
+   "link_doctype": "Schedule Shift",
+   "link_fieldname": "clinic"
+  }
+ ],
+ "modified": "2024-12-09 22:20:27.635329",
  "modified_by": "Administrator",
  "module": "Appointments App",
  "name": "Clinic",
